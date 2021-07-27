@@ -34,7 +34,7 @@ def crack():
 					break
 				except:
 					continue
-			print("[*] Password not found in your wordlist try another wordlist.\n")
+			else:print("[*] Password not found in your wordlist try another wordlist.\n")
 	else:
 		print("[*] your pdf file not encrypted.")		
 		
