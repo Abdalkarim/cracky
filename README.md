@@ -2,4 +2,5 @@
 
 # Usage python3 cracky.py pdfFile.pdf wordlist.txt
 
-# Wordlists : https://github.com/danielmiessler/SecLists/tree/master/Passwords
+# Wordlists :
+            https://github.com/danielmiessler/SecLists/tree/master/Passwords
